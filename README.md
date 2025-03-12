@@ -28,18 +28,18 @@ The SK1 extruder kit was inspired by the user's urgent need to improve printing 
 
 <img src="Image/detection.png" width="250"/><img src="Image/disassembly.png" width="250"/>
 
-## Hardware Detailsi
+## Hardware Details
 
 <img src="Image/pin.png" width="500"/>
 
-The STL is a model of the sk1 extruder kit, you can download slices from the Hardware/STL path to print them.
+The STL is a model of the SK1 extruder kit, you can download slices from the Hardware/STL path to print them.
 
 <img src="Image/STL.png" width="500"/>
 
  
 ## Compatibility
 
->The SK1 Extruder Kit is compatible with most 3D printers, particularly those using the CoreXY system. For non-CoreXY machines, some additional configurations may be necessary to optimize performance. The cutter and detection function can be adapted to older klipper versions and sk1's existing screen firmware
+>The SK1 Extruder Kit is compatible with most 3D printers, particularly those using the CoreXY system. For non-CoreXY machines, some additional configurations may be necessary to optimize performance. The cutter and detection function can be adapted to older klipper versions and SK1's existing screen firmware
 
 ## How to Use
 
